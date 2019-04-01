@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import { showAgeModal } from './showModalHelpers.js';
+import { showAgeModal } from './Modals/showModalHelpers';
 
 
 class App extends Component {
